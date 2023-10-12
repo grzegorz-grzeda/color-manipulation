@@ -1,8 +1,6 @@
 {
     "name": "color-manipulation",
     "libraries": [
-    ],
-    "packages": [
-        "simple-unit-tests"
+        "atomic-tests"
     ]
 }
